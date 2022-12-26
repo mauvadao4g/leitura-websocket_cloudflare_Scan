@@ -1,0 +1,15 @@
+@Aquamandotiete
+
+pkg update && pkg upgrade -y
+pkg install python
+pkg install python2
+pip install six
+pip install ipcalc
+pip3 install requests
+pip install requests
+pkg install git
+git clone https://github.com/leitura/websocket_cloudflare_Scan
+cd websocket_cloudflare_Scan
+python3 clflareIPscan.py
+
+vivo-br.d23.host   soultide.jp   gupy.io  www.gupy.io  vivodigital.gupy.io   rbvivo01.xyz  areastecnicasvivo.gupy.io  www.glassdoor.com.br  glassdoor.com.br     jnj.com  www.jnj.com careers-jnj-com.jnjnab25.jnj.com   jnjinstitute.com  instapromocao.com.br
